@@ -1,0 +1,87 @@
+Extensions Found:
+
+
+---
+
+1. Google Docs Offline
+
+Status:  Kept (Safe)
+
+Version: 1.93.1
+
+Size: <1 MB
+
+Description: Enables offline editing and viewing of Docs, Sheets, and Slides
+
+Permissions:
+
+Read and change data on docs.google.com and drive.google.com
+
+
+Source: Installed by default
+
+Reason to Keep:
+
+Trusted extension by Google
+
+Limited and appropriate site access
+
+Used for offline document management
+
+
+
+
+---
+
+2. McAfee WebAdvisor
+
+Status:  Kept (Safe and Monitored)
+
+Version: 8.1.0.6747
+
+Size: 21.5 MB
+
+Description: Helps protect against malicious sites and warns about threats
+
+Permissions:
+
+Read browsing history
+
+Block content on any page
+
+Manage downloads
+
+Communicate with native apps
+
+Access all site data
+
+
+Source: Added by a third-party (possibly by McAfee antivirus installer)
+
+Reason to Keep:
+
+Official extension from McAfee
+
+Provides useful real-time protection while browsing
+
+Safe to use if McAfee antivirus is installed
+
+Permission level is high, but justified for its security role
+
+
+
+
+---
+
+Actions Taken:
+
+Reviewed all installed extensions and their permissions
+
+No suspicious or unused extensions were found
+
+Browser restarted after review
+
+Confirmed smooth performance and no unwanted behavior
+
+
+
